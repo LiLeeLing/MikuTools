@@ -1,7 +1,7 @@
 <template>
     <div class="panel" icon="person-outline">
         <div class="login-text">
-            <a href="https://github.com/Ice-Hazymoon/MikuTools" target="_blank" rel="noopener noreferrer">Powered by MikuTools</a>
+            <a href="https://lolis.dev" target="_blank" rel="noopener noreferrer">Powered by L.R.T.</a>
         </div>
     </div>
 </template>
