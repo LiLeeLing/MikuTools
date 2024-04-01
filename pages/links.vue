@@ -45,8 +45,16 @@ export default {
         return {
             title: `友情链接 - ${process.env.title}`,
             links: [
+            {
+                    title: '运营者',
+                    list: [
+                        {
+                            name: 'L.R.T.',
+                            description: '主页地址,欢迎来看看~',
+                            link: 'https://lolis.dev'
+                        },
                 {
-                    title: '主要维护人员',
+                    title: '开发者',
                     list: [
                         {
                             name: 'Ice-Hazymoon',
@@ -73,17 +81,10 @@ export default {
                     title: '其他',
                     list: [
                         {
-                            name: 'GitHub地址',
+                            name: '原GitHub地址',
                             description: '给个 star 呗',
                             link: 'https://github.com/Ice-Hazymoon/MikuTools'
-                        },
-                        {
-                            name: '服务器提供商（注册送 50 美元余额）',
-                            description: 'vultr',
-                            link: 'https://www.vultr.com/?ref=7943329-4F'
                         }
-                    ]
-                }
             ],
             project: [
                 'https://github.com/nuxt',
