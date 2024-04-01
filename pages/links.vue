@@ -52,7 +52,9 @@ export default {
                             name: 'L.R.T.',
                             description: '主页地址,欢迎来看看~',
                             link: 'https://lolis.dev'
-                        },
+                         }
+                    ]
+                },
                 {
                     title: '开发者',
                     list: [
@@ -85,6 +87,8 @@ export default {
                             description: '给个 star 呗',
                             link: 'https://github.com/Ice-Hazymoon/MikuTools'
                         }
+                    ]
+                }
             ],
             project: [
                 'https://github.com/nuxt',
